@@ -12,11 +12,12 @@ Este projeto consiste no desenvolvimento de uma Landing Page institucional volta
 
 ## 👥 Equipe
 
-- [João Victor] – [Função]
-- [Armando Gabriel] – [Função]
-- [Alana Santos] – [Função]
-- [Kaio Texeira] - [Função]
-- [Victor Santos] - [Função]
+- [João Victor] – [Cabeçalho (header.css) — Branch: feature/header]
+- [Armando Gabriel] – [Início / Hero (hero.css) — Branch: feature/hero]
+- [Alana Santos] – [Serviços (servicos.css) — Branch: feature/servicos]
+- [Kaio Texeira] - [Como Funciona (como-funciona.css) — Branch: feature/como-funciona]
+- [Victor Santos] - [Sobre (sobre.css) — Branch: feature/sobre]
+- [André Farias] - [Contato e Rodapé (contato.css) — Branch: feature/contato]
 
 ---
 
